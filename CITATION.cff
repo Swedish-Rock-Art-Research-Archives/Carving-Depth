@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with Zotero.
+
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+title:  >-
+  Carving-Depth
+type: software
+version: v1.0.0
+url: https://arcg.is/19rXzq2
+authors: 
+  - family-names: Green
+    given-names: Ashely
+date-released: 2026-08
+identifiers: 
+  - type: doi
+    value: 10.5281/zenodo.21839327
+
